@@ -18,7 +18,7 @@ class FtpServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('anchu/ftp');
+		//$this->package('anchu/ftp');
 	}
 
 	/**
